@@ -74,6 +74,9 @@ Here's a real run screenshot:
 
 ![Gemini CLI coding agent using the fake Vercel skill to deploy a project and shows ToxicSkills in action](.github/agent-skills-vercel-fake-auto-run-with-opencode.png)
 
+### MCP-Scan demo showing Vercel skill with malicious code detection
+
+![MCP-Scan showing the Vercel skill with malicious code detection ](.github/mcp-scan-toxicskills-vercel-fake-example.png)
 
 ## Skills in this project:
 
