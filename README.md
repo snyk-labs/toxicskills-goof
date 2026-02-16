@@ -82,6 +82,8 @@ Here's a real run screenshot:
 
 - A ClawHub skill from https://github.com/aztr0nutzs/NET_NiNjA.v1.2/blob/main/clawhub
 - A Google skill from https://github.com/aztr0nutzs/NET_NiNjA.v1.2/tree/main/google-qx4
+- A fake Vercel skill with code that exfiltrates environment information to a remote pastebin host (https://pastebin.com/) showing how agents can be steered using prompts in the SKILL.md file
+- A fake testing-guidelines skill with code that hides malicious instructions via ASCII smuggling (using https://embracethered.com/blog/ascii-smuggler.html)
 
 ### Refs
 
