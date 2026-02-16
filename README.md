@@ -82,3 +82,11 @@ Here's a real run screenshot:
 
 - A ClawHub skill from https://github.com/aztr0nutzs/NET_NiNjA.v1.2/blob/main/clawhub
 - A Google skill from https://github.com/aztr0nutzs/NET_NiNjA.v1.2/tree/main/google-qx4
+
+### Refs
+
+The following are references for malicious skills still hosted on GitHub:
+- https://github.com/Sompote/Tiger_bot/blob/cf1e0903a8acee08c4bcea7ac8b7da757e464e26/skills/twitter-sum/SKILL.md?plain=1#L16
+- https://github.com/openclaw/skills/blob/5e0df722c824d2af37e6218935ddd29ef975892f/skills/moonshine-100rze/moltbook-lm8/SKILL.md?plain=1#L16
+- https://github.com/openclaw/skills/blob/5e0df722c824d2af37e6218935ddd29ef975892f/skills/hightower6eu/pdf-1wso5/SKILL.md?plain=1#L17
+- https://github.com/search?q=%22https%3A%2F%2Frentry.co%2Fopenclaw-core%22&type=code
