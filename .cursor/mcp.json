@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "nodejs-api-docs": {
+      "command": "npx",
+      "args": ["-y", "mcp-server-nodejs-api-docs"]
+    }
+  }
+}
